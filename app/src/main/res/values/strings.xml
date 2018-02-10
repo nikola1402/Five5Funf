@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Five5Funf</string>
+    <string name="Igra5x5">Igra5x5</string>
+    <string name="zdrav">Zdravo ???, dobro došla.</string>
+    <string name="iznen">Spremio sam ti iznenađenje, ali na putu ti se isprečio jedan izazov.</string>
+    <string name="resis">Uspeš li da ga rešiš, nagrada će biti samo tvoja! </string>
+    <string name="dugme">(klikni na dugme ispod kako bi izazov počeo)</string>
+    <string name="srecna">Srećna ti ??? ???</string>
+    <string name="dugme1">DUGME</string>
+    <string name="dugme2">(pritisni ga)</string>
+    <string name="final1">PORUKA 1</string>
+    <string name="final2">PORUKA 2</string>
+    <string name="final3">PORUKA 3</string>
+    <string name="final4">PORUKA 4</string>
+    <string name="final5">PORUKA 5</string>
+</resources>
